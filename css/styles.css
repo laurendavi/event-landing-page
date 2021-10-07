@@ -1,0 +1,25 @@
+.speakerCardWrapper{
+    padding: 10px 50px 10px 50px; 
+}
+
+.speakerCard{
+    padding: 60px;
+}
+
+.speakerCard > *{
+    margin-bottom: 30px;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 16px;
+}
+
+.jumbotron{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.speakers{
+    padding-top: 35px;
+}
